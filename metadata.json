@@ -1,0 +1,7 @@
+{
+  "name": "MindCare – Mental Wellness & Support Platform",
+  "description": "A comprehensive, confidential mental wellness platform to track mood, sleep, take wellness self-assessments, write private journals, and connect with professionals.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
